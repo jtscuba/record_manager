@@ -1,3 +1,2 @@
 First Name    Last Name    Gender    Favorite Color    Date of Birth
 ------------  -----------  --------  ----------------  ---------------
-d
