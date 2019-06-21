@@ -24,7 +24,7 @@ def main(
     print(
         tabulate.tabulate(
             sorted_records,
-            headers=('First Name', 'Last Name', 'Gender', 'Favorite Color', 'Date of Birth')
+            headers=('Last Name', 'First Name', 'Gender', 'Favorite Color', 'Date of Birth')
         )
     )
 

@@ -1,0 +1,7 @@
+Last Name    First Name    Gender    Favorite Color    Date of Birth
+-----------  ------------  --------  ----------------  ---------------
+Smith        Josh          Male      green             1997-09-14
+Smith        Joseph        Male      Gold              1805-12-23
+Smith        David         Male      red               1999-12-31
+Trate        Josh          Male      blue              1997-09-14
+Young        Brigham       Male      Blue              1801-06-01

@@ -1,0 +1,2 @@
+Smith | Joseph | Male | Gold | 12/23/1805
+Young | Brigham | Male | Blue | 06/01/1801
