@@ -10,6 +10,14 @@ def main(
     space_separated_file_name: str,
     sort_order: RecordSortOrder,
 ) -> None:
+    """Read records from provided files and print them in the desired order
+    
+    Args:
+        comma_separated_file_name: name of file with comma separated records
+        pipe_separated_file_name: name of the file with pipe separated records
+        space_separated_file_name: name of the file with space separated records
+        sort_order: order to print the parsed records in
+    """
     records = []
     record_files = zip(
         (
