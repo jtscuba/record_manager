@@ -13,6 +13,7 @@ class Gender(Enum):
     
     We define less than to allow sorting by gender.
     """
+
     FEMALE = "Female"
     MALE = "Male"
 
@@ -25,6 +26,7 @@ class Gender(Enum):
 
 class Record(NamedTuple):
     """Represents the information about a single person"""
+
     last_name: str
     first_name: str
     gender: Gender
@@ -48,6 +50,7 @@ class Record(NamedTuple):
 @unique
 class RecordSortOrder(Enum):
     """Possible sort orders of records"""
+
     GENDER_AND_LAST_NAME_ASCENDING = "gender_and_last_name_ascending"
     DATE_OF_BIRTH_ASCENDING = "date_of_birth_ascending"
     LAST_NAME_DESCENDING = "last_name_descending"

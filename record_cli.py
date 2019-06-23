@@ -1,4 +1,5 @@
 import argparse
+
 import tabulate
 
 from record_lib import RecordSortOrder, update_records, records_sorted_by_order
